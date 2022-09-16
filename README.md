@@ -1,8 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swKDH&show_icons=true&theme=solarized-light)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=531kdh)](https://solved.ac/wlddj14)
 
 <!--
