@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swKDH&show_icons=true&theme=solarized-light)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=531kdh)](https://solved.ac/wlddj14)
 
 <!--
 **swKDH/swKDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
