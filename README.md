@@ -4,7 +4,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=531kdh)](https://solved.ac/wlddj14)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?swKDH=anuraghazra&layout=compact)](https://github.com/swKDH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swKDH&layout=compact)](https://github.com/swKDH/github-readme-stats)
 
 <!--
 **swKDH/swKDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
