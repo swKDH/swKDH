@@ -6,6 +6,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swKDH&layout=compact)](https://github.com/swKDH/github-readme-stats)
 
+# 💪Skills
+### Platforms & Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+
 <!--
 **swKDH/swKDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
