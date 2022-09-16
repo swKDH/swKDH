@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swKDH&layout=compact)](https://github.com/swKDH/github-readme-stats)
 
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=531kdh)](https://solved.ac/531kdh)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=531kdh)](https://solved.ac/531kdh)
 
 # 💪Skills
