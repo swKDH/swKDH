@@ -2,7 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swKDH&show_icons=true&theme=skyblue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swKDH&layout=compact)](https://github.com/swKDH/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=531kdh)](https://solved.ac/wlddj14)
+[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=531kdh)](https://solved.ac/531kdh)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=531kdh)](https://solved.ac/531kdh)
 
 # 💪Skills
 ### Platforms & Languages
