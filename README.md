@@ -5,7 +5,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=531kdh)](https://solved.ac/531kdh)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zaman17&color=dark)](https://velog.io/@kdh531)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kdh531&color=white)](https://velog.io/@kdh531)
 
 # 💪Skills
 ### Platforms & Languages
